@@ -4,7 +4,7 @@ free-dict
 Intro
 ---
 
-Compilation of Free Dictionaries and their sources.
+Compilation of Free Bilingual and Multilingual Dictionaries.
 
 
 ### How To Contribute
@@ -13,3 +13,11 @@ Compilation of Free Dictionaries and their sources.
 - Edit
 - [Send a PR](https://help.github.com/articles/using-pull-requests  )
 
+### Index
+* [English](en.md)
+* [Japanese](ja.md)
+* [Hungarian](hu.md)
+* [Spanish](sp.md)
+
+### License
+This is just a compilation. Each dictionary has it's own terms and conditions. Respect them.
