@@ -14,6 +14,7 @@ Compilation of Free Bilingual and Multilingual Dictionaries.
 - [Send a PR](https://help.github.com/articles/using-pull-requests  )
 
 ### Index
+* [Multilingual] (multilingual.md)
 * [English](en.md)
 * [Japanese](ja.md)
 * [Hungarian](hu.md)
