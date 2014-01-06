@@ -1,10 +1,10 @@
 Index
 ===
 
-* [Multilingual] (#Multilingual)
-* [English](#English)
-* [Japanese](#Japanese)
-* [Spanish](#Spanish)
+* [Multilingual](#multilingual)
+* [English](#english)
+* [Japanese](#japanese)
+* [Spanish](#spanish)
 
 
 ### Multilingual
