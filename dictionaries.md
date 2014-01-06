@@ -15,6 +15,6 @@ Index
 
 ### Japanese
 
-* [JmDict](http://www.edrdg.org/jmdict/j_jmdict.html)
+* [JMdict](http://www.edrdg.org/jmdict/j_jmdict.html)
 
   *Japanese to English, German, French, Russian and Dutch*
