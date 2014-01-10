@@ -18,3 +18,6 @@ Index
 * [JMdict](http://www.edrdg.org/jmdict/j_jmdict.html)
 
   *Japanese to English, German, French, Russian and Dutch*
+* [NAIST-jdic](http://naist-jdic.sourceforge.jp/)
+
+  *Japanese dictionary for Morphological Analysis*
